@@ -1,5 +1,9 @@
 # pingvin-share-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/pingvin-share-x-v122-or-wetransfer-alter?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Pingvin Share X template](https://railway.com/deploy/pingvin-share-x-v122-or-wetransfer-alter?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned [Pingvin Share X](https://github.com/smp46/pingvin-share-x) image, published as
 `ghcr.io/bon5co/pingvin-share-railway:latest`.
 
